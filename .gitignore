@@ -1,0 +1,17 @@
+*.egg-info/
+*.pyc
+*.pytest_cache/
+*.retry
+.cache
+.coverage
+.idea/
+.version
+cluster.db
+coverage.xml
+html/
+latex/
+log/
+pdf/
+run/
+wwwroot
+
